@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724861351 source:c:\users\giuliana\documents\cliente_servidor\servidorc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<time.h>
+
